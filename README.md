@@ -64,7 +64,7 @@ mission:    Level up code, ship cool stuff, repeat
 ## `> PLAYER_STATS`
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/user=DouglasTardioli&hide_border=true&background=0D1B0D&ring=39FF14&fire=4ADE80&currStreakLabel=39FF14&currStreakNum=4ADE80&sideLabels=4ADE80&sideNums=39FF14&dates=22C55E&stroke=22C55E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasTardioli&hide_border=true&background=0D1B0D&ring=39FF14&fire=4ADE80&currStreakLabel=39FF14&currStreakNum=4ADE80&sideLabels=4ADE80&sideNums=39FF14&dates=22C55E&stroke=22C55E" width="60%" />
 
 </div>
 
