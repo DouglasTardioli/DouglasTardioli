@@ -63,48 +63,8 @@ mission:    Level up code, ship cool stuff, repeat
 
 ## `> PLAYER_STATS`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DouglasTardioli&show_icons=true&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&icon_color=22C55E&ring_color=39FF14" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTardioli&layout=compact&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&langs_count=8" width="42%" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasTardioli&hide_border=true&background=0D1B0D&ring=39FF14&fire=4ADE80&currStreakLabel=39FF14&sideLabels=4ADE80&dates=22C55E" width="60%" />
-
-</div>
-
----
-
-## `> ACHIEVEMENTS_UNLOCKED`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DouglasTardioli&theme=matrix&no-frame=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## `> INVENTORY` (Pinned Projects)
-
-<div align="center">
-
-<a href="https://github.com/DouglasTardioli/ClockProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasTardioli&repo=ClockProject&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&icon_color=22C55E" />
-</a>
-<a href="https://github.com/DouglasTardioli/cloneSpotyify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasTardioli&repo=cloneSpotyify&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&icon_color=22C55E" />
-</a>
-
-<br>
-
-<a href="https://github.com/DouglasTardioli/dashboardmoney">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasTardioli&repo=dashboardmoney&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&icon_color=22C55E" />
-</a>
-<a href="https://github.com/DouglasTardioli/dashgo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DouglasTardioli&repo=dashgo&hide_border=true&bg_color=0D1B0D&title_color=39FF14&text_color=4ADE80&icon_color=22C55E" />
-</a>
 
 </div>
 
@@ -115,8 +75,6 @@ mission:    Level up code, ship cool stuff, repeat
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DouglasTardioli/DouglasTardioli/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-
-<sub>⚠️ Precisa ativar via GitHub Action — veja instruções abaixo.</sub>
 
 </div>
 
