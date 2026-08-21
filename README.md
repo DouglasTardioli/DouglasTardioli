@@ -84,9 +84,8 @@ mission:    Level up code, ship cool stuff, repeat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1B0D?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1B0D)](www.linkedin.com/in/douglas-peixoto-tardioli)
-[![Email](https://img.shields.io/badge/Email-0D1B0D?style=for-the-badge&logo=gmail&logoColor=4ADE80&labelColor=0D1B0D)](douglastardioli@outlook,com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1B0D?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1B0D)](https://www.linkedin.com/in/douglas-peixoto-tardioli)
+[![Email](https://img.shields.io/badge/Email-0D1B0D?style=for-the-badge&logo=gmail&logoColor=4ADE80&labelColor=0D1B0D)](mailto:douglastardioli@outlook.com)
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=DouglasTardioli&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="profile views" />
